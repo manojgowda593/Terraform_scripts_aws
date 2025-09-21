@@ -1,0 +1,10 @@
+db_username = "value"
+db_db = "value"
+db_password = "value"
+
+docker_username = "value"
+image_name = "value"
+image_tag = "value"
+
+
+# Copy this file to terraform.tfvars and update with real values before running

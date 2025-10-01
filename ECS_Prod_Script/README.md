@@ -65,9 +65,4 @@ The `ECS_Prod_Script` provisions a **highly available and secure infrastructure*
 
 ---
 
-## 📂 Repo Structure
-
-```bash
-terraform_script/
-│── ECS_Prod_Script/   # ECS + RDS + ALB setup (current folder)
-│── EKS_Prod_Script/   # (future) Kubernetes production-level script
+![Infrastructure Screenshot](https://drive.google.com/uc?export=view&id=12a0nSuPkDxCtIY7OhXqsvWgzeowt_IEq)
